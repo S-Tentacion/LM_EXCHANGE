@@ -30,18 +30,18 @@ password:'password'
 ```
 
 - `Get User Details`: https://lm-exchange.onrender.com/getuserdetails
- Payload : `JWT Token`
+* Payload : `JWT Token`
 
 - `Update User Details`: https://lm-exchange.onrender.com/updateUserDetails
-Payload : `JWT Token`
+* Payload : `JWT Token`
 
 - `Update User Details`: https://lm-exchange.onrender.com/updateUserDetails
-Payload : `JWT Token`
+* Payload : `JWT Token`
 
 - `Get All Products`: https://lm-exchange.onrender.com/products
 
 - `Get Single Product`: https://lm-exchange.onrender.com/product/:id
- Payload :`:id`
+* Payload :`:id`
 
 ## Installation
 
