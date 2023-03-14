@@ -1,11 +1,9 @@
 # LM EXCHANGE
 
-This is a LM Exchange server API's, Created by and maintained by [shubham](https://github.com/S-Tentacion)
+This is a LM Exchange server API's, created by and maintained by [shubham](https://github.com/S-Tentacion)
 
 ## Demo
-
-This is node js project made via using of nodejs, expressjs, mongodb and of other packages.
-A live deployment of <b><i>API's </i></b> is here [link](https://lm-exchange.onrender.com).
+This is a node js project made with nodejs, expressjs, mongodb and other packages. The link to the live deployment of APIs can be found [here](https://lm-exchange.onrender.com).
 
 ## API Documentation
 
@@ -65,6 +63,7 @@ npm install --legacy-peer-deps
 Built with:
 
 - [express](https://expressjs.com/) - learn about express
+- [mongoDB](https://www.mongodb.com/) - learn about mongoDB
 - [mongoose](https://mongoosejs.com/) - learn about mongoose
 - [nodemon](https://nodemon.io/) - learn about nodemon
 - [body-parser](https://github.com/expressjs/body-parser#readme) - learn about body parser
