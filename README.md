@@ -64,11 +64,11 @@ npm install --legacy-peer-deps
 
 Built with:
 
-- [body-parser](https://github.com/expressjs/body-parser#readme) - learn about body parser
-- [dotenv](https://github.com/motdotla/dotenv#readme) -  learn about dotenv
 - [express](https://expressjs.com/) - learn about express
 - [mongoose](https://mongoosejs.com/) - learn about mongoose
 - [nodemon](https://nodemon.io/) - learn about nodemon
+- [body-parser](https://github.com/expressjs/body-parser#readme) - learn about body parser
+- [dotenv](https://github.com/motdotla/dotenv#readme) -  learn about dotenv
 
 ## Authors
 
