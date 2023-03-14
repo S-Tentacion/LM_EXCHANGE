@@ -38,7 +38,7 @@ password:'password'
 - `Update User Details`: https://lm-exchange.onrender.com/updateUserDetails
 * Payload : `JWT Token`
 
-- `Get All Products`: https://lm-exchange.onrender.com/products
+- `Get Paginate Products`: https://lm-exchange.onrender.com/products?page=1&limit=5
 
 - `Get Single Product`: https://lm-exchange.onrender.com/product/:id
 * Payload :`:id`
